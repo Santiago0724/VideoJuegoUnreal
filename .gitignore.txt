@@ -1,0 +1,10 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.suo
+*.user
+*.log
+*.tmp
+*.bak
+*.pdb
